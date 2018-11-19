@@ -1,8 +1,0 @@
-﻿<Project>
-  <PropertyGroup>
-    <Site Server="events.tac.local" UserName="sitecore\admin" IsRemoteSitecore="False" />
-  </PropertyGroup>
-  <File Include="/Views/TAC/Events/Layouts/Events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
-    <Item DatabaseName="master">{7A0E5D1F-0198-46F5-8EE1-CF1CFAAA97AE}</Item>
-  </File>
-</Project>
